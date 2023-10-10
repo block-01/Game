@@ -1,13 +1,11 @@
-# Welcome to Defold
+# Untitled Game
 
-This project was created from the "empty" project template.
+This is a game that I developed for my A-level Computer Science NEA (Course Work) 
 
-The settings in ["game.project"](defold://open?path=/game.project) are all the default. A bootstrap empty ["main.collection"](defold://open?path=/main/main.collection) is included.
+# Todo:
 
-Check out [the documentation pages](https://defold.com/learn) for examples, tutorials, manuals and API docs.
++ Move over to Godot
 
-If you run into trouble, help is available in [our forum](https://forum.defold.com).
++ Add Power Ups
 
-Happy Defolding!
-
----
++ Add a working Dash
