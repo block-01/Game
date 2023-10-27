@@ -1,6 +1,6 @@
 # Untitled Game
 
-This is a game that I developed for my A-level Computer Science NEA (Course Work) 
+This is a game that I developed for my A-level Computer Science NEA (Course Work)
 
 # Todo:
 

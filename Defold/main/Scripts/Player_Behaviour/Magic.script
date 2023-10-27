@@ -37,7 +37,7 @@ end
 
 function on_input(self, action_id, action)
   if value then
-    
+
   end
 end
 

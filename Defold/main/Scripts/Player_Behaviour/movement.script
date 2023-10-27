@@ -139,9 +139,9 @@ function on_message(self, message_id, message, sender)
 	end
 
   if message.group == RESPAWMN or message.group == ENEMY then
-    go.set_position(self.spawn_position) --gets the postion that the player 
+    go.set_position(self.spawn_position) --gets the postion that the player
 	--started the level at and sets them to return to that location once the player object has been deleted.
-    go.delete(message.group) --deletes the player 
+    go.delete(message.group) --deletes the player
   end
   -- check for the message
 end

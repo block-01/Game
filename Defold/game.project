@@ -23,4 +23,3 @@ max_tile_count = 999999999
 
 [collection_proxy]
 max_count = 200
-

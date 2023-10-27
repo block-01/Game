@@ -1,7 +1,7 @@
 local function show(self, proxy)
 	if self.current_proxy then
 		msg.post(self.current_proxy, "unload")
-		
+
 		self.current_proxy = nil
 	end
 	msg.post(proxy, "async_load")

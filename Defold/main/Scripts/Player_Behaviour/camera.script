@@ -3,7 +3,7 @@ function init(self)
 end
 
 function on_message(self, message_id, message, sender)
-	if message_id == hash("follow") then --If an input is detected from the player controller then the camera moves with the player in the same direction at the same speed. 
+	if message_id == hash("follow") then --If an input is detected from the player controller then the camera moves with the player in the same direction at the same speed.
 		go.set_parent(".", sender)
 		go.set_position(vmath.vector3(-3000, -3000, 0)) -- the deafult position of the camera
 	elseif message_id == hash("unfollow") then
