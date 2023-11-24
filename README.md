@@ -10,3 +10,5 @@ Development will hopfully continue on the Godot branch where I will be using wha
 + Add Power Ups
 
 + Add a working Dash
+
++ Create a version working on the DSI [DSI_Game](https://github.com/block-01/DSI_Game) (Game will be added here once finished (if I start on it))
